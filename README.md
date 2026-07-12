@@ -13,7 +13,7 @@ This application allows you to AFK mine timed Twitch drops, without having to wo
 - **Unlinked Game polling** - Because TWitch can be borked and gamedevs are lazy and can't program twitch integration so we have no choice :( 
 
 > [!NOTE]
-> To run the application in Docker, see [https://github.com/fireph/docker-twitch-drops-miner](https://github.com/Pannboo/UwUMiner-Docker). DO NOT report any Docker issues to https://github.com/DevilXD/TwitchDropsMiner!
+> To run the application in Docker, see [https://github.com/Pannboo/docker-twitch-drops-miner](https://github.com/Pannboo/UwUMiner-Docker). DO NOT report any Docker issues to https://github.com/DevilXD/TwitchDropsMiner!
 
 ### How It Works:
 
